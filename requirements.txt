@@ -1,5 +1,6 @@
-tensorflow==2.19.0
-opencv-python==4.11.0
+tensorflow
+opencv-python
 matplotlib
 Pillow
+
 
