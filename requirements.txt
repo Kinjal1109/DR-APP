@@ -2,3 +2,4 @@ tensorflow
 opencv-python-headless
 matplotlib
 Pillow
+gdown
